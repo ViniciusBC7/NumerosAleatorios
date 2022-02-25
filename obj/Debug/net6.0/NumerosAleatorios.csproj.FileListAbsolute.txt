@@ -1,0 +1,15 @@
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\bin\Debug\net6.0\NumerosAleatorios.exe
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\bin\Debug\net6.0\NumerosAleatorios.deps.json
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\bin\Debug\net6.0\NumerosAleatorios.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\bin\Debug\net6.0\NumerosAleatorios.dll
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\bin\Debug\net6.0\NumerosAleatorios.pdb
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\obj\Debug\net6.0\NumerosAleatorios.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\obj\Debug\net6.0\NumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\obj\Debug\net6.0\NumerosAleatorios.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\obj\Debug\net6.0\NumerosAleatorios.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\obj\Debug\net6.0\NumerosAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\obj\Debug\net6.0\NumerosAleatorios.dll
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\obj\Debug\net6.0\refint\NumerosAleatorios.dll
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\obj\Debug\net6.0\NumerosAleatorios.pdb
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\obj\Debug\net6.0\NumerosAleatorios.genruntimeconfig.cache
+C:\Users\Vinicius\Desktop\Projetos\NumerosAleatorios\obj\Debug\net6.0\ref\NumerosAleatorios.dll
